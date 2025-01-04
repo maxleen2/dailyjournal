@@ -110,7 +110,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <!-- login start -->
     <section id="home" class="text-sm-start text-center p-5 bg-success-subtle">
       <div class="container">
-        <h1 class="text-center p-2">LOGIN</h1>
+        <h1 class="text-center p-2">Welcome t My Daily Journal</h1>
         <div class="text-center ">
           <img src="img/the monsters (7).jpg" alt="Log In / Sing Up" class="img-circle" width="200">
           <br>
